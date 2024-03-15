@@ -20,7 +20,7 @@ First, you will need follow one of the guides below:
 
 After you have your Laravel project ready, you can install Laravel Breeze, please refer to the [official documentation](https://laravel.com/docs/11.x/starter-kits#breeze-and-next).
 
-**💡 Note:** Make sure to run all database migrations and check that the API is available at `http://localhost:8000` or `http://localhost:80` (when using Laravel Sail).
+**💡 Note:** Make sure to run all database migrations and check that the API is available at `http://localhost:8000` or `http://localhost:8080` (when using Laravel Sail).
 
 **Configure existing Laravel project**
 
